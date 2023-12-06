@@ -1,28 +1,14 @@
-<!-- 自定义颜色方案 -->
-```css
-body {
-    background-color: #f4f4f4;
-    color: #333;
-}
+# Welcome to My Stylish Website!
 
-/* 自定义链接颜色 */
-a {
-    color: #007bff;
-}
+Explore exciting topics on my beautifully designed website:
 
+1. [Discover the Wonders of Distance](distancemap.html)
+   - Dive into the captivating world of distance exploration!
 
+2. [Uncover the Evolution of Topics Over Time](jikan.html)
+   - Witness how topics evolve and change with the passage of time.
 
-# Welcome to My Website!
-
-Explore some exciting topics on my website:
-
-1. [Distance Map](distancemap.html)
-   - Discover the wonders of distance!
-
-2. [Time Changes in Topics](jikan.html)
-   - Uncover how topics evolve over time.
-
-## Preview Images:
+## Preview the Visual Delights:
 
 ### Cluster Map
 ![Cluster Map](cluster.png)
@@ -30,8 +16,25 @@ Explore some exciting topics on my website:
 ### Heatmap
 ![Heatmap](heatmap.png)
 
-### Successful Version and Japanese Translation (Using machine translation, so please excuse potential imperfections)
-![Topic Image](topiceng.png)
-![Topic Image](topicjap.png)
-### Note: While the following is an incorrect example (includes meaningless numbers and words), it serves as a learning experience!
+### Successful Version and Japanese Translation (Machine-Translated, Excuse Imperfections)
+![Topic Image (English)](topiceng.png)
+![Topic Image (Japanese)](topicjap.png)
+
+### Note: The following example serves as a learning experience!
 ![False Example](false.png)
+
+---
+
+### What's New?
+
+- **Sleek Design:** We've revamped the look for a more visually appealing experience.
+
+- **Enhanced Readability:** Clear layout, balanced spacing, and a readable font make your exploration enjoyable.
+
+- **Engaging Interactions:** Experience the content with added interactivity for a dynamic journey.
+
+- **Color Harmony:** A carefully selected color scheme ensures a pleasing visual atmosphere.
+
+- **Responsive:** Our website adapts seamlessly to different devices for a consistent and enjoyable experience.
+
+Check out our exciting topics and enjoy the journey of exploration! 😊
