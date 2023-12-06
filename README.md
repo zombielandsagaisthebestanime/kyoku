@@ -27,6 +27,6 @@ Explore exciting topics on my beautifully designed website:
 
 ### What's New?
 none
-![Background Image](978365.jpg)
+![Background Image](978365.png)
 
 Check out our exciting topics and enjoy the journey of exploration! 😊
