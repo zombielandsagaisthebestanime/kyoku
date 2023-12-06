@@ -1,6 +1,6 @@
 # Welcome to My  Website!
 
-Explore exciting topics :
+Explore  topics:
 
 1. [Discover the Wonders of Distance](distancemap.html)
    - Dive into the captivating world of distance exploration!
@@ -26,7 +26,7 @@ Explore exciting topics :
 ---
 
 ### What's New?
-none
-![Background Image](978365.png)
 
 Check out our exciting topics and enjoy the journey of exploration! 😊
+
+![Background Image](978365.jpg)
