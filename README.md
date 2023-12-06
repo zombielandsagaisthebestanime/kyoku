@@ -1,14 +1,23 @@
-# My Website
+# Welcome to My Website!
 
-Welcome to my website! Below are some interesting topics:
+Explore some exciting topics on my website:
 
 1. [Distance Map](distancemap.html)
-2. [Time changes in topics](jikan.html)
+   - Discover the wonders of distance!
 
-![Image](cluster.png)
+2. [Time Changes in Topics](jikan.html)
+   - Uncover how topics evolve over time.
 
-![Image2](heatmap.png)
-# false example(There are meaningless numbers and words)
-![Image3](false.png)
-# Successful version, and Japanese version
-![Image4](topic.png)
+## Preview Images:
+
+### Cluster Map
+![Cluster Map](cluster.png)
+
+### Heatmap
+![Heatmap](heatmap.png)
+
+### Successful Version and Japanese Translation (Using machine translation, so please excuse potential imperfections)
+![Topic Image](topic.png)
+![Topic Image](topiceng.png)
+### Note: While the following is an incorrect example (includes meaningless numbers and words), it serves as a learning experience!
+![False Example](false.png)
