@@ -1,6 +1,6 @@
-# Welcome to My Stylish Website!
+# Welcome to My  Website!
 
-Explore exciting topics on my beautifully designed website:
+Explore exciting topics :
 
 1. [Discover the Wonders of Distance](distancemap.html)
    - Dive into the captivating world of distance exploration!
