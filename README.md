@@ -27,6 +27,4 @@ Explore  topics:
 
 ### What's New?
 
-Check out our exciting topics and enjoy the journey of exploration! 😊
-
 ![Background Image](978365.png)
