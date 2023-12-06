@@ -18,6 +18,6 @@ Explore some exciting topics on my website:
 
 ### Successful Version and Japanese Translation (Using machine translation, so please excuse potential imperfections)
 ![Topic Image](topic.png)
-![Topic Image](topiceng.png)
+![Topic Image](topicjap.png)
 ### Note: While the following is an incorrect example (includes meaningless numbers and words), it serves as a learning experience!
 ![False Example](false.png)
