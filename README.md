@@ -6,3 +6,5 @@ Welcome to my website! Below are some interesting topics:
 2. [Jikan](jikan.html)
 
 ![Image](cluster.png)
+
+![Image2](heatmap.png)
