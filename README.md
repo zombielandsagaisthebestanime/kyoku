@@ -1,6 +1,6 @@
-# Welcome to My  Website!
+# Welcome to My Website!
 
-Explore  topics:
+Explore topics:
 
 1. [Discover the Wonders of Distance](distancemap.html)
    - Dive into the captivating world of distance exploration!
@@ -27,4 +27,6 @@ Explore  topics:
 
 ### What's New?
 
-![Background Image](978365.png)
+<div style="background-image: url('978365.png'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; padding: 20px;">
+    <p style="color: white;">如何将背景图片应用到全局?</p>
+</div>
