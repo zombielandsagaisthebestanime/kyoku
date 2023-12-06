@@ -29,4 +29,4 @@ Explore  topics:
 
 Check out our exciting topics and enjoy the journey of exploration! 😊
 
-![Background Image](978365.jpg)
+![Background Image](978365.png)
