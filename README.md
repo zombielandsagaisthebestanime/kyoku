@@ -9,6 +9,9 @@
 
 # Welcome to My Website!
 
+
+
+
 Explore topics:
 
 1. [Discover the Wonders of Distance](distancemap.html)
@@ -16,6 +19,7 @@ Explore topics:
 
 2. [Uncover the Evolution of Topics Over Time](jikan.html)
    - Witness how topics evolve and change with the passage of time.
+
 
 ## Preview the Visual Delights:
 
@@ -29,11 +33,11 @@ Explore topics:
 ![Topic Image (English)](topiceng.png)
 ![Topic Image (Japanese)](topicjap.png)
 
-### Note: The following example serves as a learning experience!
+### Note: The following example serves as a learning experience! This corpus contains stop words, numbers, and irrelevant vocabulary.
 ![False Example](false.png)
 
 ---
 
-### What's New?
+
 
 
