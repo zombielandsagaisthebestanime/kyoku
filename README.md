@@ -1,6 +1,11 @@
-<div style="background-image: url('978365.png'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; padding: 100px;">
-    <p style="color: white;">ゾンビランドサガ</p>
-</div>
+<style>
+  body {
+    background-image: url('978365.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+</style>
 
 # Welcome to My Website!
 
@@ -30,4 +35,5 @@ Explore topics:
 ---
 
 ### What's New?
+如何背景图片覆盖整个页面
 
