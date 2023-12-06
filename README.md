@@ -1,3 +1,17 @@
+<!-- 自定义颜色方案 -->
+```css
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* 自定义链接颜色 */
+a {
+    color: #007bff;
+}
+
+
+
 # Welcome to My Website!
 
 Explore some exciting topics on my website:
