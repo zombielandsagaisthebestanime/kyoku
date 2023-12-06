@@ -1,40 +1,68 @@
-# Welcome to My Stylish Website!
+<!DOCTYPE html>
+<html lang="en">
 
-Explore exciting topics on my beautifully designed website:
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Stylish Website!</title>
 
-1. [Discover the Wonders of Distance](distancemap.html)
-   - Dive into the captivating world of distance exploration!
+    <style>
+        body {
+            background-image: url('978365.jpg'); /* 替换 'background.jpg' 为你的背景图片文件路径 */
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed; /* 让背景图片固定不滚动 */
+            color: #ffffff; /* 设置文本颜色为白色，以确保在背景图片上有足够对比度 */
+        }
 
-2. [Uncover the Evolution of Topics Over Time](jikan.html)
-   - Witness how topics evolve and change with the passage of time.
+        /* 其他样式代码保持不变 */
+    </style>
+</head>
 
-## Preview the Visual Delights:
+<body>
 
-### Cluster Map
-![Cluster Map](cluster.png)
+    # Welcome to My Stylish Website!
 
-### Heatmap
-![Heatmap](heatmap.png)
+    Explore exciting topics on my beautifully designed website:
 
-### Successful Version and Japanese Translation (Machine-Translated, Excuse Imperfections)
-![Topic Image (English)](topiceng.png)
-![Topic Image (Japanese)](topicjap.png)
+    1. [Discover the Wonders of Distance](distancemap.html)
+    - Dive into the captivating world of distance exploration!
 
-### Note: The following example serves as a learning experience!
-![False Example](false.png)
+    2. [Uncover the Evolution of Topics Over Time](jikan.html)
+    - Witness how topics evolve and change with the passage of time.
 
----
+    ## Preview the Visual Delights:
 
-### What's New?
+    ### Cluster Map
+    ![Cluster Map](cluster.png)
 
-- **Sleek Design:** We've revamped the look for a more visually appealing experience.
+    ### Heatmap
+    ![Heatmap](heatmap.png)
 
-- **Enhanced Readability:** Clear layout, balanced spacing, and a readable font make your exploration enjoyable.
+    ### Successful Version and Japanese Translation (Machine-Translated, Excuse Imperfections)
+    ![Topic Image (English)](topiceng.png)
+    ![Topic Image (Japanese)](topicjap.png)
 
-- **Engaging Interactions:** Experience the content with added interactivity for a dynamic journey.
+    ### Note: The following example serves as a learning experience!
+    ![False Example](false.png)
 
-- **Color Harmony:** A carefully selected color scheme ensures a pleasing visual atmosphere.
+    ---
 
-- **Responsive:** Our website adapts seamlessly to different devices for a consistent and enjoyable experience.
+    ### What's New?
 
-Check out our exciting topics and enjoy the journey of exploration! 😊
+    - **Sleek Design:** We've revamped the look for a more visually appealing experience.
+
+    - **Enhanced Readability:** Clear layout, balanced spacing, and a readable font make your exploration enjoyable.
+
+    - **Engaging Interactions:** Experience the content with added interactivity for a dynamic journey.
+
+    - **Color Harmony:** A carefully selected color scheme ensures a pleasing visual atmosphere.
+
+    - **Responsive:** Our website adapts seamlessly to different devices for a consistent and enjoyable experience.
+
+    Check out our exciting topics and enjoy the journey of exploration! 😊
+
+</body>
+
+</html>
+�
