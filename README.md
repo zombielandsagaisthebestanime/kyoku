@@ -1,3 +1,7 @@
+<div style="background-image: url('978365.png'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; padding: 100px;">
+    <p style="color: white;">ゾンビランドサガ</p>
+</div>
+
 # Welcome to My Website!
 
 Explore topics:
@@ -27,6 +31,3 @@ Explore topics:
 
 ### What's New?
 
-<div style="background-image: url('978365.png'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; padding: 20px;">
-    <p style="color: white;">如何将背景图片应用到全局?</p>
-</div>
