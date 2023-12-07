@@ -18,9 +18,9 @@
     display: block;
     margin: auto;
     margin-top: 20px;
+    opacity: 0.8; 
   }
 </style>
-
 
 # Welcome to My Website!
 
