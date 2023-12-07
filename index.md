@@ -4,42 +4,44 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Welcome to My Website!</title>
   <style>
-    body {
-      background-image: url('blu.jpg');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      color: #8B4513;
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-    }
+  body {
+    background-image: url('blu.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black; /* Set text color to black */
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
 
-    h1, h2, h3, p {
-      max-width: 800px;
-      margin: auto;
-    }
+  h1, h2, h3, p {
+    max-width: 800px;
+    margin: auto;
+  }
 
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: auto;
-      margin-top: 20px;
-      opacity: 0.8; 
-    }
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    opacity: 0.8; 
+  }
 
-    iframe {
-      width: 100%;
-      height: 600px;
-      border: 1px solid #ddd;
-    }
+  iframe {
+    width: 100%;
+    height: 600px;
+    border: 1px solid #ddd;
+    background: transparent; /* Set iframe background to transparent */
+  }
 
-    section {
-      padding: 20px;
-    }
-  </style>
+  section {
+    padding: 20px;
+  }
+</style>
+
 </head>
 <body>
 
