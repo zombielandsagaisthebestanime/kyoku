@@ -31,7 +31,7 @@ Explore topics:
 
 ### Successful Version and Japanese Translation (Machine-Translated, Excuse Imperfections)
 ![Topic Image (English)](topiceng.png)
-![Topic Image (Japanese)](topicjap.png)
+![Topic Image (Japanese)](topicjap1.png)
 
 ### Note: The following example serves as a learning experience! This corpus contains stop words, numbers, and irrelevant vocabulary.
 ![False Example](false.png)
