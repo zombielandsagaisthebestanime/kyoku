@@ -5,7 +5,7 @@
   <title>Welcome to My Website!</title>
   <style>
   body {
-    background-image: url('blue.png');
+    background-image: url('blue.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
