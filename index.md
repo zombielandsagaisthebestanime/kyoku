@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -6,7 +5,7 @@
   <title>Welcome to My Website!</title>
   <style>
     body {
-      background-image: url('blue.png');
+      background-image: url('blu.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
