@@ -27,10 +27,12 @@
 Explore topics:
 
 1. [Discover the Wonders of Distance](distancemap.html)
-   - Dive into the captivating world of distance exploration!
+   - Dive into the captivating world of distance exploration!  
+   <iframe src="distancemap.html" width="100%" height="600" frameborder="0" style="border:1px solid #ddd;"></iframe>
 
 2. [Uncover the Evolution of Topics Over Time](jikan.html)
-   - Witness how topics evolve and change with the passage of time.<br><br><br><br>
+   - Witness how topics evolve and change with the passage of time.  
+   <iframe src="jikan.html" width="100%" height="600" frameborder="0" style="border:1px solid #ddd;"></iframe>
 
 # Co-occurrence Network Visualization
 
@@ -38,7 +40,8 @@ Explore topics:
 
 I used [pyvis](https://pyvis.readthedocs.io/en/latest/) to draw this visualization.
 
-<iframe src="kyoki.html" width="1920" height="1080" frameborder="0" style="border:1px solid #ddd;"></iframe>
+<iframe src="kyoki.html" width="1280" height="720" frameborder="0" style="border:1px solid #ddd;"></iframe>
+
 
 ## Preview the Visual Delights:
 
