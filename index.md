@@ -9,7 +9,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: white; /* Set text color to white for higher contrast */
+    color: black; /* Set text color to black for better visibility */
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -41,7 +41,6 @@
     padding: 20px;
   }
 </style>
-
 </head>
 <body>
 
