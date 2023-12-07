@@ -9,7 +9,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: black; /* Set text color to black */
+    color: white; /* Set text color to white for higher contrast */
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     margin: 0;
