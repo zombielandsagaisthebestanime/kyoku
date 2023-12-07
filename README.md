@@ -4,7 +4,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: white;
+    color: #8B4513;
   }
   
   h1, h2, h3, p {
@@ -20,6 +20,7 @@
     margin-top: 20px;
   }
 </style>
+
 
 # Welcome to My Website!
 
