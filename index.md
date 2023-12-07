@@ -40,7 +40,7 @@ Explore topics:
 
 I used [pyvis](https://pyvis.readthedocs.io/en/latest/) to draw this visualization.
 
-<iframe src="kyoki.html" width="1280" height="720" frameborder="0" style="border:1px solid #ddd;"></iframe>
+<iframe src="kyoki.html" width="100%" height="720" frameborder="0" style="border:1px solid #ddd;"></iframe>
 
 
 ## Preview the Visual Delights:
@@ -48,8 +48,12 @@ I used [pyvis](https://pyvis.readthedocs.io/en/latest/) to draw this visualizati
 ### Cluster Map
 ![Cluster Map](cluster.png)
 
-### Heatmap
+### Heatmap: Research Paper Titles on Factor Analysis
+
+I gathered titles from approximately 1000 Japanese research papers related to factor analysis. Using BERTopic, I generated a heatmap illustrating the covariance matrix.
+
 ![Heatmap](heatmap.png)
+
 
 ### Successful Version and Japanese Translation (Machine-Translated, Excuse Imperfections)
 ![Topic Image (English)](topiceng.png) <br><br><br><br><br><br><br>
