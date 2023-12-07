@@ -24,14 +24,14 @@ Explore topics:
 ## Preview the Visual Delights:
 
 ### Cluster Map
-![Cluster Map](cluster.png)
+![Cluster Map](cluster.png)<br><br>
 
 ### Heatmap
-![Heatmap](heatmap.png)
+![Heatmap](heatmap.png)<br><br>
 
 ### Successful Version and Japanese Translation (Machine-Translated, Excuse Imperfections)
-![Topic Image (English)](topiceng.png)
-![Topic Image (Japanese)](topicjap1.png)
+![Topic Image (English)](topiceng.png)<br><br>
+![Topic Image (Japanese)](topicjap1.png)<br><br>
 
 ### Note: The following example serves as a learning experience! This corpus contains stop words, numbers, and irrelevant vocabulary.
 ![False Example](false.png)
