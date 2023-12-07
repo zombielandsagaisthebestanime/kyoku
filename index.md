@@ -30,7 +30,15 @@ Explore topics:
    - Dive into the captivating world of distance exploration!
 
 2. [Uncover the Evolution of Topics Over Time](jikan.html)
-   - Witness how topics evolve and change with the passage of time.
+   - Witness how topics evolve and change with the passage of time.<br><br><br><br>
+
+# Co-occurrence Network Visualization
+
+[This is a co-occurrence network of several thousand submissions from January to April 2021](kyoki.html)
+
+I used [pyvis](https://pyvis.readthedocs.io/en/latest/) to draw this visualization.
+
+<iframe src="kyoki.html" width="1920" height="1080" frameborder="0" style="border:1px solid #ddd;"></iframe>
 
 ## Preview the Visual Delights:
 
