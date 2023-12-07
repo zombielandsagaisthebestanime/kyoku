@@ -1,67 +1,95 @@
-<style>
-  body {
-    background-image: url('blue.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: #8B4513;
-  }
-  
-  h1, h2, h3, p {
-    max-width: 800px;
-    margin: auto;
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to My Website!</title>
+  <style>
+    body {
+      background-image: url('blue.png');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      color: #8B4513;
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
 
-  img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: auto;
-    margin-top: 20px;
-    opacity: 0.8; 
-  }
-</style>
+    h1, h2, h3, p {
+      max-width: 800px;
+      margin: auto;
+    }
 
-# Welcome to My Website!
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: auto;
+      margin-top: 20px;
+      opacity: 0.8; 
+    }
 
-Explore topics:
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: 1px solid #ddd;
+    }
 
-1. [Discover the Wonders of Distance](distancemap.html)
-   - Dive into the captivating world of distance exploration!  
-   <iframe src="distancemap.html" width="100%" height="600" frameborder="0" style="border:1px solid #ddd;"></iframe>
+    section {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
 
-2. [Uncover the Evolution of Topics Over Time](jikan.html)
-   - Witness how topics evolve and change with the passage of time.  
-   <iframe src="jikan.html" width="100%" height="600" frameborder="0" style="border:1px solid #ddd;"></iframe>
+  <h1>Welcome to My Website!</h1>
 
-# Co-occurrence Network Visualization
+  <p>Here I have included some pictures, which are a visual analysis of Chinese citizens’ comments to the zero-coivd policy.</p>
 
-[This is a co-occurrence network of several thousand submissions from January to April 2021](kyoki.html)
+  <section>
+    <h2>Explore topics:</h2>
 
-I used [pyvis](https://pyvis.readthedocs.io/en/latest/) to draw this visualization.
+    <h3>1. <a href="distancemap.html">Discover the Wonders of Distance</a></h3>
+    <p>Dive into the captivating world of distance exploration!</p>
+    <iframe src="distancemap.html" frameborder="0"></iframe>
 
-<iframe src="kyoki.html" width="100%" height="720" frameborder="0" style="border:1px solid #ddd;"></iframe>
+    <h3>2. <a href="jikan.html">Uncover the Evolution of Topics Over Time</a></h3>
+    <p>Witness how topics evolve and change with the passage of time.</p>
+    <iframe src="jikan.html" frameborder="0"></iframe>
+  </section>
 
+  <section>
+    <h2>Co-occurrence Network Visualization</h2>
 
-## Preview the Visual Delights:
+    <p><a href="kyoki.html">This is a co-occurrence network of several thousand submissions from January to April 2021</a></p>
+    <p>I used <a href="https://pyvis.readthedocs.io/en/latest/">pyvis</a> to draw this visualization.</p>
+    <iframe src="kyoki.html" frameborder="0"></iframe>
+  </section>
 
-### Cluster Map
-![Cluster Map](cluster.png)
+  <section>
+    <h2>Preview the Visual Delights:</h2>
 
-### Heatmap: Research Paper Titles on Factor Analysis
+    <h3>Cluster Map</h3>
+    <img src="cluster.png" alt="Cluster Map">
 
-I gathered titles from approximately 1000 Japanese research papers related to factor analysis. Using BERTopic, I generated a heatmap illustrating the covariance matrix.
+    <h3>Heatmap: Research Paper Titles on Factor Analysis</h3>
+    <p>I gathered titles from approximately 1000 Japanese research papers related to factor analysis. Using BERTopic, I generated a heatmap illustrating the covariance matrix.</p>
+    <img src="heatmap.png" alt="Heatmap">
 
-![Heatmap](heatmap.png)
+    <h3>Successful Version and Japanese Translation (Machine-Translated, Excuse Imperfections)</h3>
+    <img src="topiceng.png" alt="Topic Image (English)">
+    <br><br><br><br><br><br><br>
+    <img src="topicjap1.png" alt="Topic Image (Japanese)">
+    <br><br><br><br><br>
 
+    <h3>Note: The following example serves as a learning experience! This corpus contains stop words, numbers, and irrelevant vocabulary.</h3>
+    <img src="false.png" alt="False Example">
+  </section>
 
-### Successful Version and Japanese Translation (Machine-Translated, Excuse Imperfections)
-![Topic Image (English)](topiceng.png) <br><br><br><br><br><br><br>
-![Topic Image (Japanese)](topicjap1.png)<br><br><br><br><br>
-
-### Note: The following example serves as a learning experience! This corpus contains stop words, numbers, and irrelevant vocabulary.
-![False Example](false.png)
-
+</body>
+</html>
 
 ---
 
